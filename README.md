@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">🛡️ Securing networks since 2022<br>Telecommunications Engineer (ENET'Com) specialized in Network Engineering and Cybersecurity, with hands-on experience in SOC L1/L2 operations, security monitoring, incident response, and threat detection.<br><br>🔐 Skilled in Wireshark, Snort IDS/IPS, pfSense, and Cisco ASA, with a strong focus on network traffic analysis and MITRE ATT&CK-based threat triage.<br>🌐 Experienced in designing and securing enterprise networks — VLAN segmentation, inter-VLAN routing, OSPF/BGP, ACLs, and VPN (IPSec/SSL).<br>🎯 Focused on strengthening network infrastructures and reducing attack surfaces through proactive monitoring and hardening.</p>
+<p align="left">🛡️ Securing networks since 2023<br>Telecommunications Engineer (ENET'Com) specialized in Network Engineering and Cybersecurity, with hands-on experience in SOC L1/L2 operations, security monitoring, incident response, and threat detection.<br><br>🔐 Skilled in Wireshark, Snort IDS/IPS, pfSense, and Cisco ASA, with a strong focus on network traffic analysis and MITRE ATT&CK-based threat triage.<br>🌐 Experienced in designing and securing enterprise networks — VLAN segmentation, inter-VLAN routing, OSPF/BGP, ACLs, and VPN (IPSec/SSL).<br>🎯 Focused on strengthening network infrastructures and reducing attack surfaces through proactive monitoring and hardening.</p>
 
 <h2 align="left">I work with</h2>
 
